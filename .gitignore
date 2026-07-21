@@ -1,0 +1,15 @@
+pycache/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+
+.env
+venv/
+.venv/
+
+.DS_Store
+
+data/processed/*.csv
+
+*.log
